@@ -1,3 +1,4 @@
+// chart bottom label data
 const MONTHS = [
   "Jan",
   "Feb",
